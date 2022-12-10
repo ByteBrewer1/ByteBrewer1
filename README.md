@@ -12,8 +12,8 @@
 </div>
 
 <div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
+  <h1>Rahul Mistry</h1>
+  <h3>just a tech</h3>
 </div>
 
 <p align="center">
