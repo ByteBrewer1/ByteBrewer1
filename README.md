@@ -18,15 +18,6 @@
 <a href="https://twitter.com/_rahulmistry" rel="nofollow"> <img src="https://camo.githubusercontent.com/9df98821a7e6c5efa45feb9bed70b7e36b169012bbadc26742ca119d2a579fce/68747470733a2f2f63646e6c6f676f2e636f6d2f6c6f676f732f742f39362f747769747465722d69636f6e2e737667" alt="twitter" height="40" data-canonical-src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" style="max-width: 100%;"> </a>
  <a href="http://rahul.404dev.in/" rel="nofollow"> <img src="https://camo.githubusercontent.com/0661af704887cd1c50a86bdc7cb1d67b7f79dd5f0be091eaa81936fd2f185522/68747470733a2f2f667265657376672e6f72672f696d672f5757572d49636f6e2d57686974652d6f6e2d477265792e706e67" alt="website" height="40" data-canonical-src="https://freesvg.org/img/WWW-Icon-White-on-Grey.png" style="max-width: 100%;"> </a>
 </p>
-<h2 dir="auto"><a id="user-content--github-stats" class="anchor" aria-hidden="true" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> GitHub Stats</h2>
-<a href="https://github.com/iusenotepadonly">
-<p dir="auto"><img src="https://camo.githubusercontent.com/39770e6cf43468ddf3cca15919276acb6e2ff5320b51143144c2dd90d3f277f3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6568756c6d696e61742673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=iusenotepadonly&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;"></p>
-</a>
-<a href="https://github.com/iusenotepadonly">
-<p dir="auto"><img src="https://camo.githubusercontent.com/15175b674c8683d238abd44f6b4069f0adda48c3da739eab750c62652800dead/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6568756c6d696e6174267468656d653d746f6b796f6e69676874" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=iusenotepadonly&amp;theme=tokyonight" style="max-width: 100%;"></p>
-</a>
-   ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusenotepadonly&show_icons=true&theme=radical)
-
 
 </article>
   </div>
