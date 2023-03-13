@@ -6,7 +6,7 @@
    
  
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> CEO @ <a href="https://404dev.in" rel="nofollow"> 404DEV</a></li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> FOUNDER @ <a href="https://404dev.in" rel="nofollow"> 404DEV</a></li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’ve keen interest in App Development,AI,Blockchain and many other...</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Flutter, C++.</li>
 <li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on any Open Source Project.</li>
@@ -18,7 +18,55 @@
 <a href="https://twitter.com/_rahulmistry" rel="nofollow"> <img src="https://camo.githubusercontent.com/9df98821a7e6c5efa45feb9bed70b7e36b169012bbadc26742ca119d2a579fce/68747470733a2f2f63646e6c6f676f2e636f6d2f6c6f676f732f742f39362f747769747465722d69636f6e2e737667" alt="twitter" height="40" data-canonical-src="https://cdnlogo.com/logos/t/96/twitter-icon.svg" style="max-width: 100%;"> </a>
  <a href="http://rahul.404dev.in/" rel="nofollow"> <img src="https://camo.githubusercontent.com/0661af704887cd1c50a86bdc7cb1d67b7f79dd5f0be091eaa81936fd2f185522/68747470733a2f2f667265657376672e6f72672f696d672f5757572d49636f6e2d57686974652d6f6e2d477265792e706e67" alt="website" height="40" data-canonical-src="https://freesvg.org/img/WWW-Icon-White-on-Grey.png" style="max-width: 100%;"> </a>
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;DSA;DevOps;Competitive+Programming)](https://git.io/typing-svg)
 
+<img align="center" width="400" src="mygif.gif">
+
+## My Weapons 🌟
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=C;CPP;JAVA;Nodejs;Javascript;Python)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iusenotepadonly&theme=react)](https://github.com/iusenotepadonly/github-readme-stats)
+
+<br>
+
+## Other Shields 🛡
+
+<p align="left">
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarn" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.mongodb.com/atlas/database/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
+</p>
+
+<br>
+
+ 
+## Github Stats 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=iusenotepadonly&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iusenotepadonly&theme=gotham" width="48%" >
+<br>
+
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=iusenotepadonly&theme=gotham&area=true) -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iusenotepadonly&theme=gotham&area=true)
+
+
+
+
+
+## Leetcode Stats 🏆
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/iusenotepadonly?theme=nord&font=Ubuntu%20Mono&ext=heatmap)
+
+<br>
 </article>
   </div>
 </div>
