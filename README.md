@@ -14,7 +14,7 @@
 </ul>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;PYTHON;JAVASCRIPT;MERN;RUBY;LARAVEL;SQL+%2F+PL+SQL;CORE+JAVA;PHP;THREE.JS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C+%2F+C%2B%2B;PYTHON;JAVASCRIPT;MERN;RUBY;LARAVEL;SQL+%2F+PL+SQL;CORE+JAVA;PHP;THREE.JS)](https://404dev.in)
 
 <img align="center" width="400" src="mygif.gif">
 
