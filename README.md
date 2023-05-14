@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Rahul Mistry</b></h1>
 <h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India.</b></h2>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiusenotepadonly%2Fiusenotepadonly&label=VISITORS&countColor=%23263759&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FByteBrewer1%2FByteBrewer1&label=VISITORS&countColor=%23263759&labelStyle=upper)
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> FOUNDER @ <a href="https://404dev.in" rel="nofollow"> 404DEV</a></li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’ve keen interest in Web-App, AI, Blockchain and many other...</li>
@@ -19,7 +19,7 @@
 ## Most Used Languages ✎: 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iusenotepadonly&theme=react)](https://github.com/iusenotepadonly/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteBrewer1&theme=react)](https://github.com/ByteBrewer1/github-readme-stats)
 
 <br>
 
@@ -54,12 +54,12 @@
  
 ## Github Stats 🏆
 
-<img  src="https://github-readme-stats.vercel.app/api?username=iusenotepadonly&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iusenotepadonly&theme=gotham" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=ByteBrewer1&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBrewer1&theme=gotham" width="48%" >
 <br>
 
-<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=iusenotepadonly&theme=gotham&area=true) -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iusenotepadonly&theme=gotham&area=true)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=ByteBrewer1&theme=gotham&area=true) -->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ByteBrewer1&theme=gotham&area=true)
 
 
 
