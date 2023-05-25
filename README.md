@@ -54,7 +54,7 @@
 <br>
 
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=ByteBrewer1&theme=gotham&area=true) -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ByteBrewer1&theme=gotham&area=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=ByteBrewer1&theme=gotham&area=true)
 
 
 
