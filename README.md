@@ -67,7 +67,7 @@
 ## 📧 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/iusenotepadonly/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/mistryrahul/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.twitter.com/_rahulmistry"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_rahulmistry"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
